@@ -20,8 +20,5 @@ if __name__ == "__main__":
     batsman = Batsman()
     bowler = Bowler()
 
-batsman.play()
-bowler.play()
-
 batsman.play()  
 bowler.play()
